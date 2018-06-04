@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"D:/vm/ubuntu-trusty-lamp/public","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/vm/ubuntu-trusty-lamp","disabled":false,"__vagrantfile":true}}}
